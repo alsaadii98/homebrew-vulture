@@ -6,8 +6,8 @@
 #   brew install --cask alsaadii98/vulture/vulture
 # The release workflow fills in version and sha256 and pushes this file to the tap.
 cask "vulture" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.4.0"
+  sha256 "d87c34b435f6c762b7b824c0dd9cb7438cd06603df16c358426380af122681fb"
 
   url "https://github.com/alsaadii98/vulture/releases/download/v#{version}/Vulture-#{version}.zip"
   name "Vulture"
